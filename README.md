@@ -66,3 +66,31 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### others 
+
+create-react-app
+```bash
+npx create-react-app my-app
+npm start 
+
+brew install yarn
+yarn add react-bootstrap react-router-dom
+```
+
+install Virtual Code 
+Open the Command Palette (F1) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
+
+CTRL + P
+	ext install abdullahceylan.vscode-react-component-generator
+
+Extension
+	ES7 React/Redux/GraphQL/React-Native snippets
+so can generate code easily 
+
+
+get pictures from https://www.pexels.com/zh-cn/
+edit with http://www.croppola.com/
+
+
